@@ -1,0 +1,49 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{analisismatematico}{book}{}
+      \name{author}{1}{}{%
+        {{hash=85d9f8935be6388fb592aec640821f51}{%
+           family={Demidovich},
+           familyi={D\bibinitperiod},
+           given={Boris\bibnamedelima Pavlovich},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Thomson, Paraninfo}%
+      }
+      \strng{namehash}{85d9f8935be6388fb592aec640821f51}
+      \strng{fullhash}{85d9f8935be6388fb592aec640821f51}
+      \strng{bibnamehash}{85d9f8935be6388fb592aec640821f51}
+      \strng{authorbibnamehash}{85d9f8935be6388fb592aec640821f51}
+      \strng{authornamehash}{85d9f8935be6388fb592aec640821f51}
+      \strng{authorfullhash}{85d9f8935be6388fb592aec640821f51}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{5000 problemas de analisis matematico}
+      \field{year}{2003}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
